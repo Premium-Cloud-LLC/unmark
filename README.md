@@ -226,6 +226,13 @@ Download the latest `.dmg`, drag Unmark to Applications, launch. The U appears i
 
 > **System requirements:** macOS 13 Ventura or later · Apple Silicon and Intel both supported · ~2 MB.
 
+### Homebrew
+
+```bash
+brew tap Premium-Cloud-LLC/unmark
+brew install --cask unmark
+```
+
 ### Build from source
 
 ```bash
