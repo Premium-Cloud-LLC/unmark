@@ -2,15 +2,9 @@
 
 <br>
 
-<img src="Logos/icon-256.png" width="180" alt="Unmark">
+<img src="Logos/hero-banner.png" width="100%" alt="Unmark — Markdown, perfectly pasted.">
 
 <br><br>
-
-<h1>U N M A R K</h1>
-
-<h3><i>Markdown, perfectly pasted.</i></h3>
-
-<br>
 
 A free macOS menu bar utility that turns raw Markdown into beautifully formatted text on your clipboard. Built for the AI chatbot era — paste from ChatGPT, Claude, or Gemini, copy formatted output into Mail, Pages, Notes, Slack, or anywhere else.
 
