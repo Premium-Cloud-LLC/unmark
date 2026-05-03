@@ -11,7 +11,7 @@ A free macOS menu bar utility that turns raw Markdown into beautifully formatted
 <br><br>
 
 <a href="https://github.com/Premium-Cloud-LLC/unmark/releases/latest">
-  <img src="https://img.shields.io/badge/⬇%20%20Download%20for%20macOS-7B5BD8?style=for-the-badge&labelColor=3B2A8C" height="44" alt="Download">
+  <img src="https://img.shields.io/badge/⬇%20%20Download%20for%20macOS-7B5BD8?style=for-the-badge&labelColor=3B2A8C" alt="Download">
 </a>
 
 <br><br>
